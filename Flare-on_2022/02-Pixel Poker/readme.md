@@ -59,8 +59,9 @@ for i in range(im.height):
 im.save("out.bmp")
 
 ```
+>Flag
 
-    Flag:w1nN3r_W!NneR_cHick3n_d1nNer@flare-on.com
+    w1nN3r_W!NneR_cHick3n_d1nNer@flare-on.com
 
 
 
