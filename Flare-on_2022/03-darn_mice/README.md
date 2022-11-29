@@ -6,3 +6,9 @@
 ![alt](https://github.com/kudo104/Flare-on/blob/main/Flare-on_2022/03-darn_mice/Picture/2.png)
 
 ![alt](https://github.com/kudo104/Flare-on/blob/main/Flare-on_2022/03-darn_mice/Picture/1.png)
+
+- Sau đó thì chương trình lấy chuỗi nhập vào làm key để giải mã flag
+
+> Key
+
+    see three, C3 C3 C3 C3 C3 C3 C3! XD
